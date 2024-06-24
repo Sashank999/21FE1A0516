@@ -1,0 +1,8 @@
+{
+"companyName":"Abc, Inc.",
+"clientID":"07231c06-43ac-43f3-8db2-e5a38a7f1d1b",
+"clientSecret":"OvmEyOJjpsrBNzCo",
+"ownerName":"Any Name",
+"ownerEmail":"bandi.rao999@gmail.com",
+"rollNo":"21FE1A0516"
+}
